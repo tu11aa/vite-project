@@ -6,6 +6,7 @@ import { Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import ProtectedRoute from "./components/ProtectedRoute";
 
+//some changes
 function App() {
   return (
     <div className="App">
